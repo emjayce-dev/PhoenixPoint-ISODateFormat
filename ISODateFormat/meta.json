@@ -1,0 +1,24 @@
+{
+  "ID": "ISODateFormat",
+  "AssemblyName": "ISODateFormat.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Steep Gradient"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "ISO Date Format"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Changes the Geoscape date display from DD.MM.YYYY to YYYY-MM-DD for sanity."
+    }
+  ],
+  "Dependencies": []
+}

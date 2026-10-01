@@ -19,8 +19,7 @@ Example:
 Steam Workshop
 --------------
 
-The mod is also available through the Phoenix Point Steam Workshop.
-
+The mod is also available through the [Phoenix Point Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/stats/3810578440).
 
 Installation - Non-Steam
 ------------------------
